@@ -1,6 +1,9 @@
 # 📝 Aplikasi Catatan Pribadi
 
 <img width="1559" height="971" alt="Screenshot 2025-09-02 210959" src="https://github.com/user-attachments/assets/c183d389-3c55-43e1-80c7-0e963176a4da" />
+<img width="1396" height="631" alt="Screenshot 2025-09-02 211141" src="https://github.com/user-attachments/assets/e7b290ff-c858-4838-8b3b-c0c09a69281a" />
+<img width="1067" height="650" alt="Screenshot 2025-09-02 211204" src="https://github.com/user-attachments/assets/e0a6fd0b-5b25-498c-809d-0364c28d861c" />
+
 
 
 Aplikasi web React untuk mengelola catatan pribadi dengan fitur lengkap dan antarmuka yang modern.
